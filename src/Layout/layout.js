@@ -11,6 +11,5 @@ export const Layout = ( { children } )=>{
                 {children}
             </div>
         </>
-
     )
 }
